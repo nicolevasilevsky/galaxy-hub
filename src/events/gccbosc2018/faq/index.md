@@ -22,13 +22,15 @@ For [international visitors requiring a visa](https://help.cbp.gov/app/answers/d
 
 ### How do I request a Visa letter?
 
-Send your request to *vasilevs [at] ohsu.edu*  and include your
+Once you have registered for the conference and submitted an abstract, please send your request to *vasilevs [at] ohsu.edu*  and include your
 
 * full (given/legal) name,
 * institution/company name and address,
 * date of birth (YYYY/MM/DD),
 * passport number, and
 * country of issuance,
+* registration confirmation number,
+* title of your abstract submission
 
 In addition, a letter verifying your student status or employment status may be required to obtain a visa to enter the US. Please see [this template](https://depot.galaxyproject.org/hub/attachments/events/gccbosc2018/gccbosc2018-employment-student-letter-example.docx) for an example.
 
